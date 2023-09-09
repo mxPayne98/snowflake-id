@@ -1,0 +1,31 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# Folders
+_node_modules
+_coverage
+bin/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+vendor/
+
+# IDE/Editor directories
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

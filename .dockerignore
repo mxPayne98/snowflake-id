@@ -1,0 +1,19 @@
+# Exclude version control directories
+.git
+
+# Exclude Go build output
+bin/
+*.out
+
+# Exclude temporary files
+*.log
+*.tmp
+
+# Exclude all markdown, config, and text files
+*.md
+*.txt
+*.yml
+
+# Exclude local configuration files (if any)
+*.config
+*.env
